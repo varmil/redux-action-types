@@ -10,10 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "mkdir -p lib && babel --presets es2015 index.js -o lib/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/varmil/redux-action-types.git"
-  },
   "keywords": [
     "redux",
     "react"
