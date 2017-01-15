@@ -3,9 +3,6 @@
   "version": "1.0.1",
   "description": "Shortcut for creating redux action constants.",
   "main": "lib/index.js",
-  "files": [
-    "lib/"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "mkdir -p lib && babel --presets es2015 index.js -o lib/index.js"
