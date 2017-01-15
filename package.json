@@ -1,6 +1,6 @@
 {
   "name": "redux-action-types",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Shortcut for creating redux action constants.",
   "main": "lib/index.js",
   "files": [
