@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ripeworks/redux-action-types.git"
+    "url": "git+https://github.com/varmil/redux-action-types.git"
   },
   "keywords": [
     "redux",
@@ -20,10 +20,6 @@
   ],
   "author": "Ripeworks",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ripeworks/redux-action-types/issues"
-  },
-  "homepage": "https://github.com/ripeworks/redux-action-types#readme",
   "devDependencies": {
     "babel": "^6.1.18",
     "babel-cli": "^6.2.0",
